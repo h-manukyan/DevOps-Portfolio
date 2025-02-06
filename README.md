@@ -1,2 +1,2 @@
 # DevOps-Portfolio
-A collection of DevOps projects using AWS and related technologies.
+This repository contains my DevOps projects using AWS, CI/CD, Docker, and other related technologies.
